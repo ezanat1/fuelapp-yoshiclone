@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Demo
 
-<img src="https://recordit.co/v5dOQmJczn" width=250><br>
+<img src="http://g.recordit.co/v5dOQmJczn.gif" width=250><br>
